@@ -1,8 +1,8 @@
 ### Hi 👋 this is Jaideep Sharma
-%%-  🔭 I'm currently working on %%  
+- 🔭 I'm currently making **RESTful APIs**
 - 🌱 I’m currently learning **Next.js**
 - 👯 I’m looking to collaborate on **a Full Stack Project idea**
-- 💬 Ask me about **Node.js, React, MongoDB**
+- 💬 Ask me about **MongoDB, Express, React, Node.js**
 - 📫 How to reach me [**sharmajaideep1906@gmail.com**](mailto:sharmajaideep1906@gmail.com)
 - ⚡ Fun fact **I watch friends and play valorant on weekends** 😉
 
