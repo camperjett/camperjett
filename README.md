@@ -1,4 +1,4 @@
-## Hi 👋 this is Jaideep Sharma
+# Hi 👋 this is Jaideep Sharma
 
 <a href="https://github.com/camperjett">
 	<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white"/>
@@ -11,6 +11,9 @@
 </a>
 <a href="mailto:sharmajaideep1906@gmail.com">
 	<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a>
+	<img src="https://visitor-badge.laobi.icu/badge?page_id=camperjett.camperjett" />
 </a>
 
 - 🔭 I'm currently making **RESTful APIs**
