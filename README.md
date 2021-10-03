@@ -1,10 +1,4 @@
-### Hi 👋 this is Jaideep Sharma
-- 🔭 I'm currently making **RESTful APIs**
-- 🌱 I’m currently learning **Next.js**
-- 👯 I’m looking to collaborate on **a Full Stack Project idea**
-- 💬 Ask me about **MongoDB, Express, React, Node.js**
-- 📫 How to reach me [**sharmajaideep1906@gmail.com**](mailto:sharmajaideep1906@gmail.com)
-- ⚡ Fun fact **I watch friends and play valorant on weekends** 😉
+## Hi 👋 this is Jaideep Sharma
 
 <a href="https://github.com/camperjett">
 	<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white"/>
@@ -18,5 +12,14 @@
 <a href="mailto:sharmajaideep1906@gmail.com">
 	<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
+
+- 🔭 I'm currently making **RESTful APIs**
+- 🌱 I’m currently learning **Next.js**
+- 👯 I’m looking to collaborate on **a Full Stack Project idea**
+- 💬 Ask me about **MongoDB, Express, React, Node.js**
+- 📫 How to reach me [**sharmajaideep1906@gmail.com**](mailto:sharmajaideep1906@gmail.com)
+- ⚡ Fun fact **I watch friends and play valorant on weekends** 😉
+
+
 
 [![Jaideep's GitHub stats](https://github-readme-stats.vercel.app/api?username=camperjett)](https://github.com/camperjett/github-readme-stats)
