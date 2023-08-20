@@ -3,7 +3,7 @@
 <a href="https://github.com/camperjett">
 	<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white"/>
 </a>
-<a href="https://www.instagram.com/jady.99/">
+<a href="https://www.instagram.com/jady__sh/">
 	<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 <a href="https://www.linkedin.com/in/jaideepsh/">
@@ -16,12 +16,12 @@
 	<img src="https://visitor-badge.laobi.icu/badge?page_id=camperjett.camperjett" />
 </a>
 
-- 🔭 I'm currently making **RESTful APIs**
-- 🌱 I’m currently learning **Next.js**
-- 👯 I’m looking to collaborate on **a Full Stack Project idea**
-- 💬 Ask me about **MongoDB, Express, React, Node.js**
+- 🔭 I'm currently making a **C-family Compiler**
+- 🌱 I’m currently learning **Compilers and NLP**
+- 👯 I’m looking to collaborate on **a useful and viral project idea**
+- 💬 Ask me about **MERN, Django, SpringBoot, C++**
 - 📫 How to reach me [**sharmajaideep1906@gmail.com**](mailto:sharmajaideep1906@gmail.com)
-- ⚡ Fun fact **I watch friends and play valorant on weekends** 😉
+- ⚡ Fun fact **I do absolutely nothing on weekends** 😉
 
 
 
